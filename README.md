@@ -32,5 +32,5 @@ Tu app esta lista para ser desplegada!
 
 ### `npm run deploy` 
 
-Desplegara la app en github pages.\ 
-en el reposotorio crea una rama gh-pages para desplegar en github pages, en el repositorio de github seleccionar la rama\  y luego en el menu seleccionar git pages->setting alli se encuentra la url de la app desplegada.
+Desplegara la app en github pages. \ 
+en el reposotorio crea una rama gh-pages para desplegar en github pages, en el repositorio de github seleccionar la rama. \  y luego en el menu seleccionar git pages->setting alli se encuentra la url de la app desplegada.
